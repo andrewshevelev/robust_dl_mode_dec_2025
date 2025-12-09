@@ -12,7 +12,7 @@
        <span v-html="$slidev.configs.author"></span> &nbsp;|&nbsp;
        <span v-html="$slidev.configs.title"></span> &nbsp;|&nbsp;
        <span v-html="$slidev.configs.subtitle"></span> &nbsp;|&nbsp;
-       01/12/2025
+       10/12/2025
       </div>
       <div class="flex-grow">&nbsp;</div>
       <div

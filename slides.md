@@ -31,8 +31,8 @@ mdc: true
 
 title: Robust Deep Learning
 hideInToc: true
-subtitle: Status Report
-date: 01/12/2025
+subtitle: MODE collaboration meeting
+date: 10/12/2025
 venue: LAMBDA
 author: Alexey Boldyrev, Fedor Ratnikov, Andrey Shevelev
 ---
@@ -43,9 +43,11 @@ author: Alexey Boldyrev, Fedor Ratnikov, Andrey Shevelev
 <br>
 
 # Robust Deep Learning
-# Status Report
-### Alexey Boldyrev, Fedor Ratnikov, <u>Andrey Shevelev</u> <br><br>
-#### LAMBDA 01/12/2025
+## MODE collaboration meeting
+# 
+## Alexey Boldyrev, Fedor Ratnikov, <u>Andrey Shevelev</u> <br><br>
+## HSE LAMBDA 
+## 10/12/2025
 <!-- <div>
 <br>
 <span style="color:#b3b3b3ff; font-size: 11px; float: right;">Image credit: ‘Glacier du Rhone au haut du Valais’<br> by Claude Niquet after Jean Séraphin Désiré Besson<br>

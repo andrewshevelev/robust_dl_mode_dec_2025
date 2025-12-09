@@ -74,33 +74,27 @@ layout: statement
 </div>
 </div>
 
-<!-- ---
 
-# Model Path in the Algorithm: Mean Accuracy
+---
+
+
+# Accuracy Overlap
+
 <center>
 <figure>
-    <img src="/model_path_mean_20k.png" style="width: 740px !important;">
+    <img src="/accuracy_overlap_models_1.png" style="width: 500px !important;">
 </figure>
 </center>
 
-<br>
-<div class="grid grid-cols-[2fr_2fr_2fr] gap-5">
-<div>
+---
 
-* Train sample: 20k examples
-</div>
-<div>
+# Accuracy Overlap
 
-* Warmup steps = 3
-</div>
-<div>
-
-* ⭐ - base model 
-</div>
-</div> -->
-
-
-
+<center>
+<figure>
+    <img src="/accuracy_overlap_models_5.png" style="width: 500px !important;">
+</figure>
+</center>
 
 ---
 
@@ -157,6 +151,27 @@ layout: statement
 
 
 ---
+
+# Std Overlap
+
+<center>
+<figure>
+    <img src="/std_overlap_models_1.png" style="width: 500px !important;">
+</figure>
+</center>
+
+---
+
+# Std Overlap
+
+<center>
+<figure>
+    <img src="/std_overlap_models_10.png" style="width: 500px !important;">
+</figure>
+</center>
+
+
+---
 level: 2
 zoom: 1.1
 ---
@@ -181,46 +196,12 @@ zoom: 1.1
 ##### A paper with this method has been published in the IEEE Access journal. DOI: [10.1109/ACCESS.2025.3578926](https://doi.org/10.1109/ACCESS.2025.3578926)
 
 
----
-
-# Accuracy Overlap
-
-<center>
-<figure>
-    <img src="/accuracy_overlap_models_1.png" style="width: 500px !important;">
-</figure>
-</center>
-
----
-
-# Accuracy Overlap
-
-<center>
-<figure>
-    <img src="/accuracy_overlap_models_5.png" style="width: 500px !important;">
-</figure>
-</center>
 
 
----
 
-# Std Overlap
 
-<center>
-<figure>
-    <img src="/std_overlap_models_1.png" style="width: 500px !important;">
-</figure>
-</center>
 
----
 
-# Std Overlap
-
-<center>
-<figure>
-    <img src="/std_overlap_models_10.png" style="width: 500px !important;">
-</figure>
-</center>
 
 
 
