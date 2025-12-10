@@ -3,7 +3,7 @@ layout: statement
 ---
 
 # Results
-## Selection by algorithm
+<!-- ## Selection by algorithm -->
 
 
 ---
@@ -75,30 +75,10 @@ layout: statement
 </div>
 
 
----
-
-
-# Accuracy Overlap
-
-<center>
-<figure>
-    <img src="/accuracy_overlap_models_1.png" style="width: 500px !important;">
-</figure>
-</center>
 
 ---
 
-# Accuracy Overlap
-
-<center>
-<figure>
-    <img src="/accuracy_overlap_models_5.png" style="width: 500px !important;">
-</figure>
-</center>
-
----
-
-# Comparison with Grid Search
+# Сomputational Comparison with Grid Search (mean of accuracy)
 
 <br>
 
@@ -152,23 +132,30 @@ layout: statement
 
 ---
 
-# Std Overlap
+# Сomputational Comparison with Grid Search (std of accuracy)
+
+<br>
 
 <center>
 <figure>
-    <img src="/std_overlap_models_1.png" style="width: 500px !important;">
+    <img src="/confidence_level_by_mean.png" style="width: 550px !important;">
 </figure>
 </center>
 
----
+<div class="grid grid-cols-[2fr_2fr_2fr] gap-5">
+<div>
 
-# Std Overlap
+* Instances: 20
+</div>
+<div>
 
-<center>
-<figure>
-    <img src="/std_overlap_models_10.png" style="width: 500px !important;">
-</figure>
-</center>
+* Models: 72
+</div>
+<div>
+
+* Train sample: 30k examples
+</div>
+</div>
 
 
 ---

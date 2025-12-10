@@ -1,27 +1,12 @@
 ---
-layout: end
-hideInToc: true
----
-
----
 layout: statement
+hideInToc: true
 ---
 
 ## Thank you for the attention!
 
-<br>
-<br>
 
-<!-- #### Happy to answer your questions by e-mail <a href="mailto:aboldyrev@hse.ru">aboldyrev@hse.ru</a> and via Telegram <a href="https://t.me/aboldyrev">@aboldyrev</a> -->
-
-<PoweredBySlidev mt-10 />
-
-
----
----
-level: 2
-zoom: 1.1
----
+<!-- ---
 
 # Conclusions
 
@@ -36,7 +21,7 @@ zoom: 1.1
 
 <br>
 
-##### A paper with this method has been published in the IEEE Access journal. DOI: [10.1109/ACCESS.2025.3578926](https://doi.org/10.1109/ACCESS.2025.3578926)
+##### A paper with this method has been published in the IEEE Access journal. DOI: [10.1109/ACCESS.2025.3578926](https://doi.org/10.1109/ACCESS.2025.3578926) -->
 
 
 ---
@@ -50,13 +35,44 @@ class: text-center
 
 ---
 
----
-layout: statement
+# Accuracy Overlap
+
+<center>
+<figure>
+    <img src="/accuracy_overlap_models_1.png" style="width: 500px !important;">
+</figure>
+</center>
+
 ---
 
-# Early Results
-## Selection by epoches
+# Accuracy Overlap
 
+<center>
+<figure>
+    <img src="/accuracy_overlap_models_5.png" style="width: 500px !important;">
+</figure>
+</center>
+
+
+---
+
+# Std Overlap
+
+<center>
+<figure>
+    <img src="/std_overlap_models_1.png" style="width: 500px !important;">
+</figure>
+</center>
+
+---
+
+# Std Overlap
+
+<center>
+<figure>
+    <img src="/std_overlap_models_10.png" style="width: 500px !important;">
+</figure>
+</center>
 
 ---
 
