@@ -138,7 +138,7 @@ layout: statement
 
 <center>
 <figure>
-    <img src="/confidence_level_by_mean.png" style="width: 550px !important;">
+    <img src="/confidence_level_by_std.png" style="width: 550px !important;">
 </figure>
 </center>
 
