@@ -159,11 +159,13 @@ zoom: 1.1
 
 * We propose a procedure to measure the robustness of machine learning models.
 
-* We supplement such a procedure with a meta-algorithm for robust model selection.
+* We supplement this procedure with a meta-algorithm for robust model selection.
 
-* We tested their approach on the data of the CIFAR 10
+* We also tested our approach on CIFAR-10 data.
 
-* Showed that our algorithm is more efficient than Grid Search
+* We showed that our algorithm is more efficient than Grid Search:
+    * ~40-60% fewer computations for robustness in mean accuracy
+    * ~25% fewer computations for robustness in standard deviation
 
 <!-- * The two robust models for two specific problems found using this method have the best convergence and the smallest loss variability among the $2\times6912$ models considered.
     * The models we found are more robust than the models selected by NAS from a similar search space.
