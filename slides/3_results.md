@@ -78,7 +78,7 @@ layout: statement
 
 ---
 
-# Сomputational Comparison with Grid Search (mean of accuracy)
+# Computational Comparison with Grid Search (mean of accuracy)
 
 <br>
 
