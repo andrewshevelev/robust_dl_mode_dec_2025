@@ -82,24 +82,20 @@ layout: statement
 
 <br>
 
-<center>
+<div class="grid grid-cols-[2fr_1fr] gap-8" style="align-items: center;">
+<div>
 <figure>
-    <img src="/confidence_level_by_mean.png" style="width: 550px !important;">
+    <img src="/confidence_level_by_mean.png" style="width: 100%; max-width: 650px;">
 </figure>
-</center>
-
-<div class="grid grid-cols-[2fr_2fr_2fr] gap-5">
-<div>
-
-* Instances: 20
 </div>
-<div>
+<div style="padding-left: 20px;">
 
-* Models: 72
-</div>
-<div>
+- Instances: 20
+- Models: 72
+- Train sample: 30k examples
+- ~40-60% less computations
 
-* Train sample: 30k examples
+
 </div>
 </div>
 
@@ -132,28 +128,24 @@ layout: statement
 
 ---
 
-# Сomputational Comparison with Grid Search (std of accuracy)
+# Computational Comparison with Grid Search (std of accuracy)
 
 <br>
 
-<center>
+<div class="grid grid-cols-[2fr_1fr] gap-8" style="align-items: center;">
+<div>
 <figure>
-    <img src="/confidence_level_by_std.png" style="width: 550px !important;">
+    <img src="/confidence_level_by_std.png" style="width: 100%; max-width: 650px;">
 </figure>
-</center>
-
-<div class="grid grid-cols-[2fr_2fr_2fr] gap-5">
-<div>
-
-* Instances: 20
 </div>
-<div>
+<div style="padding-left: 20px;">
 
-* Models: 72
-</div>
-<div>
+- Instances: 20
+- Models: 72
+- Train sample: 30k examples
+- ~25% less computations
 
-* Train sample: 30k examples
+
 </div>
 </div>
 
